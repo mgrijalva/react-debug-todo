@@ -11,7 +11,7 @@ npm start
 
 ## Debugging
 
-There are 3 bugs in this todo list. Try to find the 3 bugs yourself. If you
+There are 4 bugs/issues in this todo list. Try to find the 4 issues yourself. If you
 get stuck, see bugs.md.
 
-Next, attempt to fix all 3 bugs.
+Next, attempt to fix all 4 bugs/issues.
